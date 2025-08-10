@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**Brilland-baba/Brilland-BABA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, je suis Brilland C.F. BABA   
 
-Here are some ideas to get you started:
+🎓 **Diplômé Ingénieur Statisticien Économiste (ISE)** – ENEAM, Université d'Abomey-Calavi  
+📊 Passionné par l'analyse de données, l'économétrie appliquée et le machine learning  
+🌍 Objectif : appliquer la data science à des projets à fort impact social  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Compétences techniques
+
+- 📈 **Statistique & Économétrie** : modèles linéaires, non linéaires, Tobit, Heckman, régressions ordinales  
+- 🤖 **Machine Learning** : classification, régression, systèmes de recommandation, validation croisée  
+- 💻 **Outils & Langages** : R, Python, Stata, Excel (VBA), SQL  
+- 🎨 **Visualisation** : ggplot2, matplotlib, Power BI  
+
+---
+
+## 📌 Projets phares
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| 📉 **Analyse de la pauvreté au Bénin** | Calcul des indicateurs FGT à partir des données EHCVM 2017–2018 | R, Stata |
+| 🤖 **Classification Titanic** | kNN, Random Forest, réseaux bayésiens avec validation croisée | R |
+| 🎥 **Système de recommandation MovieLens** | Filtrage collaboratif et régularisation | R |
+| 📊 **Tableaux de bord interactifs** | Visualisation avancée des données avec R Shiny et Power BI | R, Power BI |
+
+---
+
+
+
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](linkedin.com/in/brilland-baba-795244273)  
+- ✉️  bababrilland@gmail.com
+- +229 01 90910890
+
